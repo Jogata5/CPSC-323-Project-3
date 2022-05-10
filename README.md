@@ -8,9 +8,11 @@ S -> a = E
 E -> E+T     
 E-> E- T      
 E-> T
+
 T->T*F       
 T->T/F        
 T->F
+
 F->a             
 F->b             
 F—> ( E )
