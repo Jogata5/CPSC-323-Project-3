@@ -2,6 +2,7 @@
 
 # Prog1
 [40 points] Same as the last problem in Project 2 (problem 6), include the S-->a=E  rule to the beginning of the grammar so that the grammar becomes this :
+
 S -> a = E
 E -> E+T     
 E-> E- T      
